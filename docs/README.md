@@ -1,8 +1,8 @@
 # Home
 
-Welcome to the *Jekflix Template* docs!
+欢迎使用听语族有声书
 
-Here you will find everything you need to get your website up and running with the template:
+
 
 - How to setup your local [environment](setup.md#environment) and [install](setup.md#installing-template) the template
 - How to [customize](settings.md#settings) your website, changing theme colors, layout, titles, etc.
