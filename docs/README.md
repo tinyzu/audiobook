@@ -1,38 +1,53 @@
 # Home
 
-欢迎使用听语族有声书
-#war_and_peace_01_01_tolstoy_64kb.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>War and Peace</title>
+</head>
+<body>
+  <h1>Home</h1>
+  <p>欢迎使用听语族有声书</p>
 
+  <h2>war_and_peace_01_01_tolstoy_64kb.html</h2>
+  <ul>
+    <li>How to setup your local environment and install the template</li>
+    <li>How to customize your website, changing theme colors, layout, titles, etc.</li>
+    <li>How to deploy your website using Netlify and edit content using Netlify CMS</li>
+  </ul>
 
-- How to setup your local [environment](setup.md#environment) and [install](setup.md#installing-template) the template
-- How to [customize](settings.md#settings) your website, changing theme colors, layout, titles, etc.
-- How to [deploy](netlify-cms.md#deploy-with-netlify) your website using Netlify and edit content using [Netlify CMS](netlify-cms.md#integrate-with-netlify-cms)
+  <h2>Summary</h2>
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#setup">Setup</a></li>
+    <li><a href="#settings">Settings</a></li>
+    <li><a href="#post">Post</a></li>
+    <li><a href="#netlify-cms">Netlify CMS</a></li>
+  </ul>
 
-*and the list goes on...*
+  <h3 id="features">Features</h3>
+  <p>...</p>
 
-Navigate through the menu below as you wish, and most of all, have fun! 😄
+  <h3 id="setup">Setup</h3>
+  <h4 id="environment">Environment</h4>
+  <p>...</p>
+  <h4 id="installing-template">Installing template</h4>
+  <p>...</p>
+  <h4 id="running-local">Running local</h4>
+  <p>...</p>
+  <h4 id="customization">Customization</h4>
+  <p>...</p>
+  <h4 id="translations">Translations</h4>
+  <p>...</p>
 
-## Summary
+  <h3 id="settings">Settings</h3>
+  <p>...</p>
 
-* [Features](features.md#features)
-* [Setup](setup.md#setup)
-  * [Environment](setup.md#environment)
-  * [Installing template](setup.md#installing-template)
-  * [Running local](setup.md#running-local)
-  * [Customization](setup.md#customization)
-  * [Translations](setup.md#translations)
-* [Settings](settings.md#settings)
-  * [Site](settings.md#site)
-  * [Social](settings.md#social)
-  * [Theme](settings.md#theme)
-  * [Posts](settings.md#posts)
-  * [Advanced](settings.md#advanced)
-* [Post](post.md#post)
-  * [Creating a post](post.md#creating-a-post.md)
-  * [Front Matter properties](post.md#front-matter-properties)
-* [Netlify CMS](netlify-cms.md#netlify-cms)
-  * [Deploy with Netlify](netlify-cms.md#deploy-with-netlify)
-  * [Integrate with Netlify CMS](netlify-cms.md#integrate-with-netlify-cms)
+  <h3 id="post">Post</h3>
+  <p>...</p>
 
-
+  <h3 id="netlify-cms">Netlify CMS</h3>
+  <p>...</p>
+</body>
+</html>
 
